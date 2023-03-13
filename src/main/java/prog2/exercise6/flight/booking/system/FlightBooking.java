@@ -365,7 +365,6 @@ public class FlightBooking {
             this.returnTicketPrice=departingTicketPrice;
         }
     }
-
     public void setTicketNumber(int index) {
         String ticketNumber = null;
 
