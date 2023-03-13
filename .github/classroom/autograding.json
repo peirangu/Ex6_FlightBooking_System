@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Testing seat booking method with ArrayList",
+      "setup": "mvn compile",
+      "run": "mvn -Dtest=FlightBookingTest#testing_Seat_Booking_Method test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
